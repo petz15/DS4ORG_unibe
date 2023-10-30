@@ -1,3 +1,8 @@
+#personal peter
+/neo4j_OSMI_2016
+osmi-survey-2016_.json
+~*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -25,6 +30,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
